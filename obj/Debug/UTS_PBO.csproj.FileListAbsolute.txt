@@ -1,0 +1,7 @@
+D:\UTS SEM 2\UTS_PBO\PROGRAM\UTS_PBO\bin\Debug\UTS_PBO.exe.config
+D:\UTS SEM 2\UTS_PBO\PROGRAM\UTS_PBO\bin\Debug\UTS_PBO.exe
+D:\UTS SEM 2\UTS_PBO\PROGRAM\UTS_PBO\bin\Debug\UTS_PBO.pdb
+D:\UTS SEM 2\UTS_PBO\PROGRAM\UTS_PBO\obj\Debug\UTS_PBO.csprojAssemblyReference.cache
+D:\UTS SEM 2\UTS_PBO\PROGRAM\UTS_PBO\obj\Debug\UTS_PBO.csproj.CoreCompileInputs.cache
+D:\UTS SEM 2\UTS_PBO\PROGRAM\UTS_PBO\obj\Debug\UTS_PBO.exe
+D:\UTS SEM 2\UTS_PBO\PROGRAM\UTS_PBO\obj\Debug\UTS_PBO.pdb
